@@ -1,16 +1,14 @@
-### Hi there 👋
+# ⚡ Luis Carlos
 
-<!--
-**LuisCarlosDev/LuisCarlosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Full-Stack**
 
-Here are some ideas to get you started:
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-carlos-silva-8856881b4/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atulmente estudando _Next.js_
+
+- 👨🏽‍🎓 Alumni @Rocketseat
+- :computer: Experiência em react.js, react native e typescript;
+- :computer: Conhecimentos em backend com nodejs e typescript
+- :bowtie: Pretendo colaborar com projetos front-end;
+- 👨🏽‍💻 Estou disponivel para ajudar em que for preciso, gosto de resolver problemas, não importa a dificuldade!
+- 📫 Como chegar até mim: luiscarlossilva.dev@gmail.com
