@@ -4,7 +4,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-carlos-silva-8856881b4/)
 
-👨🏽‍💻 Atulmente sou Densevolvedor na Rise Studio
+👨🏽‍💻 Atulmente sou Densevolvedor Full-Stack na Rise Studio
 
 - 👨🏽‍🎓 Alumni @Rocketseat
 - :computer: Experiência em react.js, react native e typescript;
