@@ -2,8 +2,8 @@
 
 - 👨🏽‍🎓 Alumni @Rocketseat
 - :computer: Experiência em react.js, react native e typescript;
-- :computer: Conhecimentos básicos em backend com nodejs e typescript
-- :bowtie: Pretendo colaborar com projetos front-end;
+- :computer: Conhecimentos em backend com nodejs e typescript
+- :bowtie: Pretendo colaborar com projetos front-end até mesmo FullStack;
 
 
 <div>
