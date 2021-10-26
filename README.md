@@ -1,10 +1,35 @@
-## Olá! Eu sou o Luis Carlos
+# Hi there, i'm Luis Carlos
 
-- 👨🏽‍🎓 Alumni @Rocketseat
-- :computer: Experiência em react.js, react native e typescript;
-- :computer: Conhecimentos em backend com nodejs e typescript
-- :bowtie: Pretendo colaborar com projetos front-end até mesmo FullStack;
 
+```typescript
+const WhoAmI = {
+  pronouns: 'Him | His',
+  user: 'Luis Carlos Silva',
+  role: 'FullStack',
+  stack: [
+    'Reactjs',
+    'React Native',
+    'NodeJs',
+    'Typescript'
+  ]
+  current_edu: 'Rocketseat',
+  alumni_rocketseat: True,
+  hobbies: [
+    'Studying',
+    'Watching Series',
+    'Focus on a single goal SOLVING PROBLEMS and FIXING BUGS'
+  ],
+
+  function getCurrentCity() {
+	  return Teresina_Piaui_Brazil
+  }
+}
+```
+## A little more about me...
+
+#### - I am currently a full stack development student, focused on the main technologies that serve the market...
+
+#### - See my resume by <a  target="blank" href="https://www.canva.com/design/DAEtUbyAXUs/Khgmnq93FXMgjaElRgcKaA/view">clicking here</a>
 
 <div>
   <a href="https://github.com/LuisCarlosDev">
