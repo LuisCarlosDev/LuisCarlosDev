@@ -5,7 +5,7 @@
 const WhoAmI = {
   pronouns: 'Him | His',
   user: 'Luis Carlos Silva',
-  role: 'FullStack',
+  role: 'FronEnd',
   stack: [
     'Reactjs',
     'React Native',
@@ -28,7 +28,7 @@ const WhoAmI = {
 #
 <h3>A little more about me...</h3>
 
-#### - I am currently a full stack development student, focused on the main technologies that serve the market...
+#### - I am currently a front-end development student, focused on the main technologies that serve the market...
 
 #### - See my resume by <a  target="blank" href="https://www.canva.com/design/DAEtUbyAXUs/Khgmnq93FXMgjaElRgcKaA/view">clicking here</a>
 
