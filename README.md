@@ -11,7 +11,7 @@ const WhoAmI = {
     'React Native',
     'NodeJs',
     'Typescript'
-  ]
+  ],
   current_edu: 'Rocketseat',
   alumni_rocketseat: True,
   hobbies: [
