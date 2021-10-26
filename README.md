@@ -5,7 +5,7 @@
 const WhoAmI = {
   pronouns: 'Him | His',
   user: 'Luis Carlos Silva',
-  role: 'FronEnd',
+  role: 'FrontEnd',
   stack: [
     'Reactjs',
     'React Native',
