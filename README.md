@@ -5,12 +5,13 @@
 const WhoAmI = {
   pronouns: 'Him | His',
   user: 'Luis Carlos Silva',
-  role: 'FrontEnd',
+  role: 'Full Stack',
   stack: [
     'Reactjs',
     'React Native',
     'NodeJs',
-    'Typescript'
+    'Typescript',
+    'C#',
   ],
   current_edu: 'Rocketseat',
   alumni_rocketseat: True,
